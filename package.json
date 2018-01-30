@@ -1,6 +1,6 @@
 {
 	"name": "vuesocket.io",
-	version: 0.0.1,
+	"version": "0.0.1",
 	"description": "Socketio implementation for vuejs",
 	"main": "dist/build.js",
 	"repository": {
