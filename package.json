@@ -1,4 +1,12 @@
 {
+	"name": "vuesocket.io",
+	version: 0.0.1,
+	"description": "Socketio implementation for vuejs",
+	"main": "dist/build.js",
+	"repository": {
+	    "type": "git",
+	    "url": "git+https://github.com/codeasashu/vuesocket.io.git"
+	  },
   "scripts": {
     "build": "webpack --progress --hide-modules"
   },
